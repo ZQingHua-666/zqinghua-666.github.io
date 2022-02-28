@@ -9,7 +9,7 @@
 
  
 //:[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io)
-//:[![stars](https://github.com/ZQingHua-666)](https://github.com/ZQingHua-666) [![forks](https://github.com/ZQingHua-666)](https://github.com/ZQingHua-666)  
+[![stars](https://github.com/ZQingHua-666)](https://github.com/ZQingHua-666) [![forks](https://github.com/ZQingHua-666)](https://github.com/ZQingHua-666)  
 
 [GitHub](<https://github.com/ZQingHua-666>)
 
